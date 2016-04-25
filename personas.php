@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>AlMACEN TALLER DJ</title>
+    <title>SINACIS</title>
     <link rel="stylesheet" href="css/bootstrap.css">
   </head>
   <body>
@@ -40,21 +40,32 @@
              <div class="form-group">
                <label for="inputplaca" class="col-sm-2 control-label">placa</label>
               <div class="col-sm-10">
-                <input type="placa" class="form-control" id="inputplaca" placeholder="placa">
+                <input type="placa" class="form-control" id="inputplaca" placeholder="placa" 
+                name="placa">
               </div>
+
               </div>
                <div class="form-group">
-               <label for="inputmarca" class="col-sm-2 control-label">marca</label>
+                 <label for="inputmarca" class="col-sm-2 control-label">marca</label>
               <div class="col-sm-10">
-                <input type="marca" class="form-control" id="inputmarca" placeholder="marca">
+                <input type="marca" class="form-control" id="inputmarca" placeholder="marca"
+                name="marca">
               </div>
+
               </div>
               <div class="form-group">
                <label for="inputdescripcion" class="col-sm-2 control-label">descripcion</label>
               <div class="col-sm-10">
-                <input type="descripcion" class="form-control" id="inputdescripcion" placeholder="descripcion">
+                <input type="descripcion" class="form-control" id="inputdescripcion" placeholder="descripcion"name="desc">
+              </div>
+               <div class="form-group">
+               <label for="inputcolor" class="col-sm-2 control-label">color</label>
+              <div class="col-sm-10">
+                <input type="color" class="form-control" id="inputcolor" placeholder="color"
+                name="color">
               </div>
               </div>
+
             <div class="form-group">
               <div class="col-sm-offset-2 col-sm-10">
                 
