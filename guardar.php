@@ -6,7 +6,6 @@
 	$marca=$_POST["marca"];
 	$desc=$_POST["desc"];
 	$color=$_POST["color"];
-	$db=mysql_connect("localhost","root","");
-	mysql_select_db("sinacis",$db);
-	mysql_query("insert into clientes values('$ced','$nom','$tel','$placa','$marca','$desc','$color')");
+	$db = new PDO('mysql:host=localhost;dbname=sinacis;charset=utf8', 'root', '');
+	$result = $db->exec("insert into clientes values('$ced','$nom','$tel','$placa','$marca','$desc','$color')");	
 ?>

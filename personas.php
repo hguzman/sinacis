@@ -14,7 +14,7 @@
           <hr>
           <div class="well">
             
-          <form class="form-horizontal" action="guardar.php">
+          <form class="form-horizontal" action="guardar.php" method="post">
               <div class="form-group">
                 <label for="inputcedula" class="col-sm-2 control-label">Cedula</label>
                 <div class="col-sm-10">
@@ -42,22 +42,25 @@
               <div class="col-sm-10">
                 <input type="placa" class="form-control" id="inputplaca" placeholder="placa" 
                 name="placa">
-              </div>
 
               </div>
+              </div>
+
                <div class="form-group">
                  <label for="inputmarca" class="col-sm-2 control-label">marca</label>
               <div class="col-sm-10">
                 <input type="marca" class="form-control" id="inputmarca" placeholder="marca"
                 name="marca">
               </div>
-
               </div>
+
               <div class="form-group">
                <label for="inputdescripcion" class="col-sm-2 control-label">descripcion</label>
               <div class="col-sm-10">
                 <input type="descripcion" class="form-control" id="inputdescripcion" placeholder="descripcion"name="desc">
               </div>
+              </div>
+
                <div class="form-group">
                <label for="inputcolor" class="col-sm-2 control-label">color</label>
               <div class="col-sm-10">
