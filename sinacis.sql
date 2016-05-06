@@ -12,4 +12,13 @@ create table clientes(
   color varchar(20),
   primary key(cedula));
 
-describe vehiculos;
+
+create table citas(
+	nombre varchar (20),
+	cedula int ,
+	placa varchar(20),
+	descripcion varchar(50),
+	primary key (placa));
+	
+
+

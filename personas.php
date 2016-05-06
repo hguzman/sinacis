@@ -89,7 +89,7 @@
             aqui se guardan los datos de los clientes que entren a nuestra pagina.
           
           <p>
-            Es muy facil utilizar este sistema solo deben escribir su nombre , su numero de cedula , su numero telefonico y su e-mail.
+            Es muy facil utilizar este sistema solo deben escribir su nombre , su numero de cedula , su numero telefonico,la placa de su moto ,la marca ,el color y una descripcion del estado de su moto.
           </p>
         </div>
       </div>

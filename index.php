@@ -12,7 +12,9 @@
           <?php include 'menu.php' ?>
         </div>
         <div class="col-md-4">
-          <h1>ALMACEN TALLER DJ</h1>
+          <h1>BIENVENIDOS</h1>
+          <hr>
+          <img src="logosinacis.png" alt="" class="img-responsive">
           <hr>
           <img src="LOGODJ.jpg" alt="" class="img-responsive">
                  
@@ -20,28 +22,27 @@
         <div class="col-md-4">
           <h1>Bienvenidos a nuestro portal</h1>
           <p>
-            Es un placer darles la bienvenida a la pagina de internet de Almacen y taller dj
+            Es un placer darles la bienvenida a la pagina de internet de Almacen y taller dj.
 
             
-            En un mundo cada vez mas digitalizado, estamos convencidos de que, a traves de este sitio, puedan conocer las actividades que realizamos en areas tan diversas como el comercio,el mantenimiento de motos, entre otras.
+            En un mundo cada vez mas digitalizado, estamos convencidos de que, a traves de este sitio podemos brindar una mejor atencion ya que aqui podran pedir citas para llevar a reparar su motocicleta el dia que ustedes lo prefieran y atenderlos como se merecen.
 
             
           </p>
           <p>
-            Espero que nuestra pagina web sirva de ventana y plataforma util para ustedes. Al mismo tiempo, podran adquirir la multifacetica informacion acerca de nuestra region, nuestra cultura y nuestro pueblo, junto a variadas actividades.
+            Esperamos que este sistema sirva de ventana y plataforma util para ustedes. 
           </p>
         </div>
         <div class="col-md-4">
-          <div class="well">
-           MISION
-           Nuestra empresa esta dedicada a la reparacion y venta de repuestos de excelente calidad  cubriendo las necesidades de nuestro mercado para obtener plena satisfaccion de los clientes mediante la integracion de un equipo de trabajo capacitado con la maxima seguridad y calidad en nuestros servicios para su desarrollo integral.
-
-          </div>
+          <h1>UBICACION</h1>
           <hr>
+            <img src="mapa.png" alt="" class="img-responsive">
+            <h1>calle 110 #26-19 avenida circunvalar
+            <img src="repuesto.jpg" alt="" class="img-responsive">  
+          </div>
+          
           <div class="well">
-            VISION
-            Nos proyectamos a mediano plazo lograr ser reconocido como el mejor taller de venta de repuestos con un servicio y atencion de excelente categoria lideres  en innovacion en mantenimiento , logrando a traves de un trabajo en equipo , con una planificacion y organizacion adecuada que responda a cualquier reto del consumidor y de la competencia. 
-
+            
           </div>
           
         </div>
