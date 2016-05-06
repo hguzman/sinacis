@@ -20,16 +20,16 @@
             
           <form class="form-horizontal" action="guardarcitas.php" method="post">
               <div class="form-group">
-                <label for="inputnombre" class="col-sm-2 control-label">NOMBRE</label>
-                <div class="col-sm-10">
+                <label for="inputnombre" class="col-sm-3 control-label">NOMBRE</label>
+                <div class="col-sm-9">
                   <input type="text" class="form-control" id="inputnombre" placeholder="nombre" 
                   name="nom">
                 </div>
               </div>
 
               <div class="form-group">
-                <label for="inputcedula" class="col-sm-2 control-label">CEDULA</label>
-                <div class="col-sm-10">
+                <label for="inputcedula" class="col-sm-3 control-label">CEDULA</label>
+                <div class="col-sm-9">
                   <input type="text" class="form-control" id="inputcedula" placeholder="cedula"
                    name="ced">
                 </div>
@@ -39,8 +39,8 @@
              
 
              <div class="form-group">
-               <label for="inputplaca" class="col-sm-2 control-label">PLACA</label>
-              <div class="col-sm-10">
+               <label for="inputplaca" class="col-sm-3 control-label">PLACA</label>
+              <div class="col-sm-9">
                 <input type="text" class="form-control" id="inputplaca" placeholder="placa" 
                 name="placa">
 
@@ -49,16 +49,16 @@
 
              
               <div class="form-group">
-               <label for="inputdescripcion" class="col-sm-2 control-label">DESCRIPCION</label>
-              <div class="col-sm-10">
+               <label for="inputdescripcion" class="col-sm-3 control-label">DESCRIPCION</label>
+              <div class="col-sm-9">
                 <input type="text" class="form-control" id="inputdescripcion" 
                 placeholder="descripcion"name="desc">
               </div>
               </div>
 
                 <div class="form-group">
-               <label for="inputfecha" class="col-sm-2 control-label">FECHA</label>
-              <div class="col-sm-10">
+               <label for="inputfecha" class="col-sm-3 control-label">FECHA</label>
+              <div class="col-sm-9">
                 <input type="text" class="form-control" id="inputfecha" 
                 placeholder="fecha"name="fecha">
               </div>

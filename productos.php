@@ -6,11 +6,11 @@
 <body>
 
         <div class="col-md-4">
-          <h1>REPUESTOS</h1>
-          <hr>aceites
+          <h1>PRODUCTOS</h1>
+          <hr>ACEITES
           <img src="" alt="" class="img-responsive">
           <hr>
-          <img src="LOGODJ.jpg" alt="" class="img-responsive">
+          <img src="aceites.jpg" alt="" class="img-responsive">
                  </div>
 </body>
 </html>

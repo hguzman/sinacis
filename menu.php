@@ -67,11 +67,8 @@
       </form>
  -->      
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">productos</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-          <li><a href="productos.php">ver productos</a></li>
+        <li><a href="productos.php">productos</a></li>
+        
             
 
 
